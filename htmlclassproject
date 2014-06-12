@@ -1,0 +1,52 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+ 		<title>Example 3</title>
+ 		<link rel="stylesheet" type="text/css" href="css/style.css">
+ 		</head>
+ 		<body>
+ 		<div "id container">
+ 		<header>
+ 		<h1><a href="index.html">MW Wxample 3</
+ 		a></h1>
+ 		</header>
+ 		<div class="cycle-slideshow">
+ 		<div class="cycle-slideshow" 
+    data-cycle-fx="scrollHorz" 
+    data-cycle-timeout="2000"
+    data-cycle-slides="> div"
+    >
+    <div style="background:#fcc">
+        <p>Lorem ipsum dolor sit amet,consectetur</p>		 		
+    </div>
+    <div style="background:#cfc">
+        <p>Lorem ipsum dolor ...
+    </div>
+    <div style="background:#ccf">
+        <p>Lorem ipsum dolor ...
+    </div>
+</div>
+ 		</div>
+ 		<naav>
+ 		<ul>
+ 		<li><a href="#"Home</a></li>
+		<li><a href="#"Contact</a></li>
+		<li><a href="#"about</a></li>
+
+</ul>
+</nav>
+</header>
+<div id="MainContaint"
+<article></article>
+<article></article>
+<article></article>
+<div class="clear"></div>
+</div>
+</div>
+<footer>
+</footer>
+
+
+ 		</div>
+ 		</body>
+ 		</html>

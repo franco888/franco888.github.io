@@ -7,12 +7,12 @@ body{
 
 }
 header{
-min-height: 200px;
+min-height:330px;
 background-color: white;
 width: 98%;
 margin: 0 1% 1%;
 text-align: center;
-font-size: 155px;
+font-size: 80px;
 
 }
 #container{
@@ -35,7 +35,7 @@ aside img{
 
 aside {
 	
-	min-height: 400px;
+	min-height: 450px;
 	float: right;
 	background-color: brown;
 	width: 27%;
@@ -43,7 +43,8 @@ aside {
 }
 #maincontent
 {
-	min-height: 402px;
+	font-size: 20px;
+	min-height: 450px;;
 	float: left;
 	background-color:tan;
 	width: 70%;
@@ -52,6 +53,7 @@ aside {
 }
 #maincontent ul li {
 	font-size: 50px;
+	text-align: center
 }
 footer{
 	background-color: white;
@@ -60,7 +62,7 @@ footer{
 	margin: 0 1% 1%;
 	clear: both;
 	text-align: center;
-	font-size: 25px;
+	font-size: 35px;
 	
 }
 #sociallinks{
